@@ -1,0 +1,1 @@
+# hak_python_task
